@@ -1,73 +1,61 @@
-<!-- Animated Header -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Shivanshu+Mishra!+👋;Full-Stack+Developer;React+%7C+Node+%7C+MySQL+%7C+AWS;I+build+scalable+and+real-time+applications" alt="Typing SVG" />
-</div>
+<!-- Banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1ED8F7&center=true&vCenter=true&width=900&lines=Hi+I'm+Shivanshu+Mishra!+👋;Full-Stack+Developer+%7C+MERN+Stack;React+%7C+Node+%7C+MySQL+%7C+AWS;I+Build+Scalable+and+Real-Time+Apps" alt="Typing SVG" />
 
 ---
 
 <div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=shivanshu75&label=Profile+Views&color=blue&style=flat)
 
-### 🔗 Connect With Me  
-<a href="https://www.linkedin.com/in/shivanshu-mishra-28b515273?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:shivanshu757101@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/>
-<img src="https://komarev.com/ghpvc/?username=shivanshu75&label=Visitors&color=1e90ff&style=for-the-badge" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=shivanshu75&theme=discord&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-# 👨‍💻 **About Me**
-
-- 🚀 Full-Stack Developer specialized in **MERN, MySQL, AWS & Real-Time Apps**  
-- 💬 Ask me about **React, MERN, WebSockets, TypeScript, AWS, MySQL**  
-- 🌐 Portfolio: **https://vercel.com/shivanshus-projects-47fde4b0**  
+## 🚀 About Me  
+- 👨‍💻 All my projects: **https://vercel.com/shivanshus-projects-47fde4b0**  
+- 💬 Ask me about: **React, MERN, MySQL, AWS, WebSockets, TypeScript**  
 - 📫 Email: **shivanshu757101@gmail.com**  
-- ⚡ Fun Fact: **I turn complex bugs into new features—intentionally or accidentally 😎**  
+- 🔗 LinkedIn: **[Click Here](https://www.linkedin.com/in/shivanshu-mishra-28b515273?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)**  
+- ⚡ Fun Fact: **My code works 90% of the time... the other 10% becomes a new feature. 😎💻**
 
 ---
 
-# 🛠️ **Tech Stack**
-
-### 🚀 Languages & Frameworks
+## 🛠️ Tech Stack (Enhanced Grid Style)
 
 <table align="center">
   <tr>
-    <td align="center" width="140">
+    <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br>React
     </td>
-    <td align="center" width="140">
+    <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/><br>TypeScript
     </td>
-    <td align="center" width="140">
+    <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br>JavaScript
     </td>
-    <td align="center" width="140">
+    <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/><br>Node.js
     </td>
-    <td align="center" width="140">
+    <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60"/><br>Express.js
     </td>
   </tr>
   <tr>
-    <td align="center" width="140">
+    <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/><br>MongoDB
     </td>
-    <td align="center" width="140">
+    <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/><br>MySQL
     </td>
-    <td align="center" width="140">
+    <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="60"/><br>AWS
     </td>
-    <td align="center" width="140">
+    <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=websocket" width="55"/><br>WebSockets
     </td>
-    <td align="center" width="140">
+    <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/><br>Git
     </td>
   </tr>
@@ -75,42 +63,52 @@
 
 ---
 
-# 🏆 **Achievements & Trophies**
+## 📊 GitHub Stats (Premium Look)
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shivanshu75&show_icons=true&theme=radical" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshu75&layout=compact&theme=radical" />
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=shivanshu75&theme=radical" />
+
+</div>
+
+---
+
+## 🌟 GitHub Activity Graph
 
 <div align="center">
   
-![Trophies](https://github-profile-trophy.vercel.app/?username=shivanshu75&theme=onestar&margin-w=15&margin-h=15&no-bg=true)
+![Shivanshu Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivanshu75&theme=react-dark&hide_border=true)
 
 </div>
 
 ---
 
-# 📊 **GitHub Analytics**
+## 🔥 Badges
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shivanshu75&show_icons=true&theme=tokyonight&hide_border=false" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshu75&layout=compact&theme=tokyonight" />
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshu75&theme=tokyonight" />
-
-</div>
-
----
-
-# 📈 **Contribution Activity Graph**
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivanshu75&theme=react-dark&hide_border=true)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 
 </div>
 
 ---
 
-# 🧩 **Featured Projects**
+## 🎯 Quote of the Day
 
-> *(You can replace these later — included premium card layout)*
+> _"Clean code is not written by machines — it's crafted by developers who care."_
 
-### 🔹 **Project Title 1**
+---
+
+## 🧡 Thanks for visiting!
+
+<img src="https://raw.githubusercontent.com/shivanshu75/shivanshu75/output/github-contribution-grid-snake-dark.svg"/>
+
