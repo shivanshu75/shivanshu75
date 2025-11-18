@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠️ Tech Stack (Enhanced Grid Style)
+## 🛠️ Tech Stack 
 
 <table align="center">
   <tr>
@@ -63,8 +63,7 @@
 
 ---
 
-## 📊 GitHub Stats (Premium Look)
-
+## 📊 GitHub Stats 
 <div align="center">
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shivanshu75&show_icons=true&theme=radical" />
@@ -110,5 +109,5 @@
 
 ## 🧡 Thanks for visiting!
 
-<img src="https://raw.githubusercontent.com/shivanshu75/shivanshu75/output/github-contribution-grid-snake-dark.svg"/>
+
 
