@@ -1,0 +1,56 @@
+name: Generate Contribution Snake
+
+# Run on manual trigger and schedule (optional)
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"   # daily at 00:00 UTC (change if you want)
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true   # allows pushing back with GITHUB_TOKEN
+
+      - name: Generate snake animation (dark + light)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: shivanshu75
+          # You can generate multiple variants (dark / light):
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=github-light
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Commit generated files to 'output' branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # configure git
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # create (or switch to) the output branch
+          git checkout --orphan output || git checkout output || true
+          # remove all files from the index (we will add dist content only)
+          git rm -rf . || true
+
+          # copy generated files into repo root (or commit dist folder)
+          mkdir -p output_dir
+          cp -R dist/* output_dir/ || true
+          mv output_dir/* . || true
+          rm -rf output_dir dist || true
+
+          # add, commit and push (if there are changes)
+          git add -A
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update contribution snake"
+            # push to output branch (create it if doesn't exist)
+            git push --force origin HEAD:output
+          fi
