@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=shivanshu75&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshu75" /> 
+<img src="https://raw.githubusercontent.com/shivanshu75/shivanshu75/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+
 </p>
 
 <div align="center">
