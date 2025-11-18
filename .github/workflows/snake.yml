@@ -10,19 +10,20 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate GitHub Contribution Snake (Custom)
+      - name: Generate GitHub Contribution Snake (Lava Fire Theme)
         uses: Platane/snk@v3
         with:
           github_user_name: shivanshu75
           outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg
-          # 🎨 Custom UI
-          color_snake: "#00FFEA"           # neon cyan
-          color_dots: "#1E90FF"            # bright blue active dots
-          color_background: "#0D1117"      # GitHub dark background
-          pixel_size: 14                   # bigger snake cells
-          resolution: 1080                 # HD quality
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+
+          # 🔥 Custom Lava Fire UI Theme
+          color_snake: "#FF4500"         # lava orange
+          color_dots: "#FF0000"          # glowing red dots
+          color_background: "#1A0000"    # dark molten background
+          pixel_size: 14
+          resolution: 1080
 
       - name: Push to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
