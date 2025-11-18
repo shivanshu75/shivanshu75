@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shivanshu Mishra</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/shivanshu75/shivanshu75/output/github-contribution-grid-snake-dark.svg" />
+<p align="left"> 
+<img src="https://raw.githubusercontent.com/shivanshu75/shivanshu75/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
 
 
 <div align="center">
