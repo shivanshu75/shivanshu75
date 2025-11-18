@@ -1,7 +1,9 @@
-<!-- Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1ED8F7&center=true&vCenter=true&width=900&lines=Hi+I'm+Shivanshu+Mishra!+👋;Full-Stack+Developer+%7C+MERN+Stack;React+%7C+Node+%7C+MySQL+%7C+AWS;I+Build+Scalable+and+Real-Time+Apps" alt="Typing SVG" />
+<h1 align="center">Hi 👋, I'm Shivanshu Mishra</h1>
+<h3 align="center">A passionate Full-Stack Developer from India</h3>
 
----
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=shivanshu75&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshu75" /> 
+</p>
 
 <div align="center">
   
